@@ -1,0 +1,248 @@
+body{
+	width:1200px;
+	/*background-color: powderblue;*/      /*页面背景颜色*/
+	text-align: center;	
+	margin:0 auto;
+}
+.top{
+	width:75%;
+	/*background-color: gray;*/
+	height:100px;
+}
+.logo{
+	position: relative;
+	left:-40%;
+}
+.line1{
+	width:2px;
+	height:35px;
+	background-color:#434343;   /*分割线记得切换颜色*/
+	position:relative;
+	top:-45px;
+	left:20%;
+}
+.welcome{
+	font-size: 30px;
+	color:#313131;
+	position: relative;
+	top:-110px;
+	left:-20%;
+}
+.mini-lunbo{
+	position: relative;
+	top:-135px;
+	height:30px;
+	overflow: hidden;
+	/*background-color: red;*/ 
+}
+.mini-lunbo ul{
+	position: absolute;
+	top:0;
+	left:5%;
+}
+li{
+	font-size: 15px;
+	list-style: none;
+	height: 30px;
+	position: relative;
+	left:-43%;
+	width:100%;
+	top:-10px;
+}
+#phone,#username,#password,#password2{
+	color:#036dde;
+}
+.qiehuan{
+	position: relative;
+	top:-175px;
+	left:75%;
+}
+.line{
+	background-color:#036dde;
+	width:1200px;
+	height:2px;
+	position:relative;
+	margin:0 auto;
+}
+.title{
+	font-size:23px;
+	position:relative;
+	margin:0 auto;
+	text-align: center;
+	top:20px;
+}
+.border{
+	position: relative;
+	top:50px;
+}
+
+
+input{
+	background-color: rgba(255,255,255,0.8);
+	border:1px solid #fff;
+	border-radius: 5px;
+	width:200px;
+	height:30px;
+	margin-left:-6%;
+}
+.user,.password,.message,.phone,.address,.name{
+	position: relative;
+	background:white;
+	left:33%;
+	width:400px;
+	height:40px;
+	padding-top:10px;
+	border:1px solid #c1c1c1;
+	border-radius: 5px;
+}
+.notice-text,.notice-text-1{
+	color:#434343;
+	position:relative;
+	left:-8%;
+}
+#textinformation{
+	position: relative;
+	margin-top: 15px;
+}
+#falv{
+	color:#036dde;
+}
+.notice-text2{
+	font-size: 13px;
+	position: relative;
+	width:250px;
+	top:-32px;
+	left:18px;
+}
+.notice{
+	position: relative;
+	left: 33%;
+	width: 402px;
+}
+.checkbox{
+	position:relative;
+	top:8px;
+	height: 30px;
+	/*width: 50px;*/
+}
+.checkbox input{
+	position: relative;
+	height: 20px;
+	width: 20px;
+	/*left: -175px;*/
+	margin-left: 0px;
+	display:block;
+}
+.regist-btn2{
+	width:400px;
+	position: relative;
+	background-color:#c9c9c9;
+	border-radius: 5px;
+	height:50px;
+	margin-top: 10px;
+	left:2.8%;
+	font-size: 18px;
+	color:white;
+	cursor: pointer;
+}
+.cutline{
+	position: relative;
+	left: 33%;
+	width: 402px;
+	height: 40px;
+	top: 30px;
+}
+#cut-line{
+	width:100px;
+	height:1px;
+	position:relative;
+	background-color: #bfbfbf;
+	/*top: 30px;*/
+}
+.line-left{
+	position: relative;
+	left:0;
+}
+.line-right{
+	position: relative;
+	right:-300px;
+	top:-24px;
+}
+.line-message{
+	color: #bfbfbf;
+	position: relative;
+	top:-12px;
+	font-size: 15px;
+}
+.icon>ul>li{
+	position: relative;
+	left:-17%;
+}
+.qq{
+	position: relative;
+	top:-40px;
+	margin-left:120px;
+}
+.taobao{
+	position: relative;
+	top:-70px;
+	margin-left:240px;
+}
+.weixin{
+	position: relative;
+	top:-100px;
+	margin-left:360px;
+}
+.bottom-line{
+	background-color: #bfbfbf;
+	width:100%;
+	position: relative;
+	height:1px;
+	top:40px;
+}
+.footer{
+	position:relative;
+	top:70px;
+	font-size: 11px;
+	color:#434343;
+}
+#bottom-notice{
+	color:red;
+	font-size: 12px;
+	position: relative;
+	left:102%;
+	top:-33px;
+	text-align: left;
+}
+a:link{
+	color:#036dde;
+	text-decoration: none;
+}
+a:visited{
+	color:#036dde;
+	text-decoration: none;
+}
+a:hover{
+	color:#036dde;
+	text-decoration: underline;
+}
+button:hover{
+	cursor:pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

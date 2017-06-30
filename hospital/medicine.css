@@ -1,0 +1,166 @@
+.table{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 100%;
+	height: 800px;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+}
+.table .p_top{
+	position: relative;
+	background: #f8f8f8;
+	height: 40px;
+	border-bottom: 1px solid #ddd;
+}
+.table .p_top span{
+	width: 60px;
+	height: 16px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+.table .top{
+	position: relative;
+	width: 380px;
+	height: 20px;
+	display:inline-block; 
+	margin-left:349.5px;
+}
+.table .top > input{
+	position:absolute;
+}
+.table  p_top2{
+	position:relative;
+	display:inline-block;
+}
+.table .jilu{
+	position:relative;
+	display:inline-block;
+	left:729.5px;
+	width: 120px;
+	height: 20px;
+	top:-20px;
+}
+.table .top .text{
+	border:none;
+	width: 30px;
+	height: 15px;
+	border-bottom: 1px solid #ddd;
+}
+.table .top .submit{
+	border: none;
+	background: #7dbcff;
+	color:#fff;
+	padding: 2px 9px;
+	border-radius: 5px;
+}
+.table .top .submit:hover{
+	background: #036dde;
+}
+
+.table table{
+	position: relative;
+	margin:0 auto;
+	width: 1050px;
+	border: 0px;
+	border-collapse:collapse; 
+ 	border-spacing:0; 
+}
+.table table th{
+	background: #7dbcff;
+	padding: 0; 
+	height: 50px;
+}
+.table table td{
+	text-align: center;
+	height: 40px;
+	border: 1px solid #ddd;
+}
+.table table input{
+	border:none;
+	background-color: #ffc468;/*ffaf32,00a201*/
+	padding: 3px 8px;
+	border-radius: 7px;
+	color:#fff;
+	font-size: 14px;
+}
+.table table input:hover{
+	border:none;
+	background-color: #036dde;
+	padding: 3px 8px;
+	border-radius: 7px;
+	color:#fff;
+	font-size: 14px;
+}
+.table .p_bottom{
+	position: relative;
+	width: 200px;
+	height: 20px;
+	margin:10px auto;
+}
+.table .bottom_button{
+	position: relative;
+	width: 350px;
+	height: 20px;
+	margin:0 auto;
+}
+.table .bottom_button .tijiao{
+	position:absolute;
+}
+.table .bottom_button .prev{
+	position:absolute;
+}
+.table .bottom_button .tiaozhuan{
+	position:absolute;
+	margin-left:20px;
+	height:20px;
+}
+.table .bottom_button .next{
+	position:absolute;
+	height:20px;
+	margin-left:272px;
+	margin-top:0px;
+}
+.table .bottom_button span{
+	margin-left:50px;
+	margin-right:15px;
+}
+.table .bottom{
+	margin-bottom:30px;
+}
+.table .bottom .text{
+	border:none;
+	border-bottom: 1px solid #ddd;
+	width: 30px;
+	height: 15px;
+}
+.table .bottom .button{
+	border: none;
+	background: #7dbcff;
+	color:#fff;
+	padding: 2px 9px;
+	border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

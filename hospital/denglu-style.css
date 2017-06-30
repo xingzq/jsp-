@@ -1,0 +1,173 @@
+.main{
+	width:100%;
+	height:530px;
+	position:relative;
+	background-color: #00c5ff;
+}
+.bigpic{
+	position: relative;
+	left:-21%;
+}
+.main-right{
+	width:350px;
+	height:400px;
+	background-color: white;
+	position: relative;
+	top:-480px;
+	left:60%;
+}
+.welcomeregist{
+	font-size: 22px;
+	position: relative;
+	top:10px;
+	left:-30%;
+}
+#main-information{
+	width:300px;
+	height:50px;
+	background-color: white;
+	position: relative;
+	left:7.2%;
+	border:1px solid #b5b5b5;
+	border-radius: 5px;
+}
+.password2{
+	position: relative;
+	top:30px;
+}
+#form2{
+	background-color: white;    /*文本框背景颜色*/
+	width:230px;
+	position: relative;
+	top:-16px;
+	height:30px;
+	left:8%;
+	font-size:15px;
+	padding-top: 3px;
+	padding-left: 10px;
+	border:none;
+}
+#main-icon{
+	position: relative;
+	left: -40%;
+	top:10px;
+}
+.notice{
+	position: relative;
+	top:20px;
+	left:-12%;
+}
+.notice-text2{
+	position: relative;
+	left:7%;
+	top: -38px;
+	/*color: red;*/
+	/*margin-top: -6px;*/
+}
+form{
+	position: relative;
+	left:-10px;
+}
+.remepwd{
+	font-size: 12px;
+	color:#036dde;
+	position: relative;
+	top:-37px;
+	left: 170px;
+	width:60px;
+}
+.checkbox{
+	position: relative;
+	top:9px;
+	left:-23%;
+}
+.regist-btn{
+	width:300px;
+	position: relative;
+	background-color:#036dde;
+	border-radius: 3px;
+	height:40px;
+	top:-13px;
+	left:3%;
+	font-size: 18px;
+	color:white;
+	cursor: pointer;
+}
+#sigezi{
+	font-size: 12px;
+}
+.free{
+	position: relative;
+	top:-22px;
+	left:-35%;
+	color: #036dde;
+}
+.forget{
+	position: relative;
+	top:-50px;
+	left:35%;
+	color: #bfbfbf;
+}
+#cut-line2{
+	width:60px;
+	height:1px;
+	position:relative;
+	background-color: #bfbfbf;
+}
+.line-left2{
+	position: relative;
+	left:62.5%;
+	top:-565px;
+}
+.line-right2{
+	position: relative;
+	left:82%;
+	top:-585px;
+}
+.line-message2{
+	color: #bfbfbf;
+	position: relative;
+	top:-575px;
+	left:25%;
+	font-size: 15px;
+}
+.icon2>ul>li{
+	position: relative;
+	top:-565px;
+	left:62%;
+	float: left;
+}
+.qq2{
+	position: relative;
+	margin-left:50px;
+}
+.taobao2{
+	position: relative;
+	margin-left:50px;
+}
+.weixin2{
+	position: relative;
+	margin-left:50px;
+}
+.footer2{
+	position:relative;
+	top:70px;
+	font-size: 11px;
+	color:#434343;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

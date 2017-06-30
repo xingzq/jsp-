@@ -1,0 +1,123 @@
+.table{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 1198px;
+	height: 800px;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+}
+.table .p_top{
+	position: relative;
+	background: #f8f8f8;
+	height: 40px;
+	border-bottom: 1px solid #ddd;
+}
+.table .p_top span{
+	width: 60px;
+	height: 16px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+.table .infor{
+	position: relative;
+	width: 480px;
+	height: 20px;
+	margin:40px auto;
+}
+.table .infor p{
+	font-size: 20px;
+	text-align: center;
+}
+.table .infor .text{
+	border:none;
+	width: 30px;
+	height: 15px;
+	border-bottom: 1px solid #ddd;
+}
+.table .infor .submit{
+	border: none;
+	background: #7dbcff;
+	color:#fff;
+	padding: 2px 9px;
+	border-radius: 5px;
+}
+.table .infor .submit:hover{
+	background: #036dde;
+}
+
+.table table{
+	position: relative;
+	margin:30px auto;
+	width: 600px;
+	border: 0px;
+	border-collapse:collapse; 
+ 	border-spacing:0; 
+}
+.table table th{
+	background: #7dbcff;
+	padding: 0; 
+	height: 50px;
+}
+.table table td{
+	/*text-align: center;*/
+	height: 40px;
+	padding: 0; 
+	/*border: 1px solid #ddd;*/
+}
+.table table .input{
+	border:none;
+	background-color: #ddd;/*ffc468,00a201*/
+	padding: 2px 5px;
+	border-radius: 5px;
+	color:#000;
+	font-size: 13px;
+	height: 23px;
+	width: 200px;
+}
+.table table .file_button{
+	background:#000;
+	padding: 5px 10px;
+	border-radius: 3px;
+	color: #000; 
+} 
+.table table .file_button:hover{
+	/* background: #036dde; */
+}
+.table .infor form > .button{
+	background: #036dde;
+	padding: 5px 20px;
+	border-radius: 3px;
+	color: #fff;
+	border: none;
+	font-size: 16px;
+}
+.table .infor  form > .button:hover{
+	background: #ffc468;
+}
+.table .infor .tijiao{
+	position: relative;
+	margin-left: 120px;
+}
+.table .infor .chongzhi{
+	position: relative;
+	margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,94 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>药品浏览</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<script type="text/javascript" src="js/banner.js"></script>
+	<script type="text/javascript" src="js/jQuery.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+</head>
+<body>
+
+	<div class="header_top">
+		<div class="header_t">
+			<div class="header_l">
+				欢迎来到医院管理系统!
+			</div>
+			<div class="header_r">
+				<span>登录状态：在线</span>
+			</div>
+		</div>
+	</div>
+	<div class="header">
+		<div class="left">
+			<img src="img/logo.png" width="150px" height="60px">
+		</div>
+		<div class="right">
+			<div class="right_top">
+				<form id="searchForm">
+					<div class="header_search">
+						<input type="text" name="text" class="stxt" style="font-size: 20px;">
+						<input type="submit" name="搜索" class="sbtn">
+					</div>
+				</form>
+			</div>
+			<div class="right_bottom">
+				<p>为您推荐：</p>
+				<a href="#">中药养生</a>
+				<a href="#">发烧</a>
+				<a href="#">季节性感冒</a>
+			</div>
+		</div>
+	</div>
+	<div class="nav">
+		<div class="nav_top">
+			<ul class="navlist">
+				<li><a href="#">首页</a></li>
+				<li><a href="#">药品浏览</a></li>
+				<li><a href="#">查询药品</a></li>
+				<li><a href="#">药品添加</a></li>
+				<li><a href="#">药品收藏</a></li>
+				<li><a href="#">退出登录</a></li>
+			</ul>
+		</div>		
+		<div class="mypage">
+			<iframe src="yao.html" frameBorder=0 marginwidth=0 marginheight=0 style="width:100%; height: 842px;" scrolling=yes ALLOWTRANSPARENCY="true"></iframe>
+		</div>
+		<div class="footer_list">
+			<p>&copy;医药管理系统</p>
+		</div>
+		
+	</div>
+	<div class="layout">
+		<div class="fixed_navigation">
+			<div class="kefu">
+				<ul>
+					<li>
+						<img src="img/zixun.png" width="40px" height="40px">
+						<a href="#">售前咨询</a>
+					</li>
+					<li>
+						<img src="img/zixun.png" width="40px" height="40px">
+						<a href="#">售后咨询</a>
+					</li>
+				</ul>
+			</div>
+			<div class="right">
+				<div class="gouwuche">
+					<img src="img/购物车.png" width="30px" height="30px" >
+					<p>购<br>物<br>车</p>
+				</div>
+				<div class="mine">
+					<img src="img/mine.png" width="30px" height="30px" >
+					<img src="img/kuang.png" class="kuang">
+				</div>
+				<div class="shoucang">
+					<img src="img/shoucang.png" width="30px" height="30px">
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

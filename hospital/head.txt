@@ -1,0 +1,21 @@
+<%@ page contentType="text/html;charset=utf-8"%>
+<style type="text/css">
+<!--
+   a:link{
+   	text-decoration: none;
+   }
+-->
+</style>
+<div align="center">
+	<font color=#66cccc><h3>医药管理系统</h3></font>
+	<table cellSpacing=“1” cellPadding="1" width="660px" align="center" border="0">
+	<tr valign="bottom">
+		<td><a href="index.jsp">首页</a></td>
+		<td><a href="lookMedicine.jsp">药品浏览</a></td>
+		<td><a href="searchMedicine.jsp">查询药品</a></td>
+		<td><a href="addMedicine.jsp">药品添加</a></td>
+		<td><a href="medicineCollect.jsp">药品收藏</a></td>
+		<td><a href="exitServlet">退出登录</a></td>
+	</tr>
+	</table>
+</div>
